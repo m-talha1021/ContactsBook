@@ -1,0 +1,1 @@
+A simple console-based Contacts Book application written in C++ that allows users to add, view, sort, and manage contact information with address details. It supports duplicate merging and file persistence for saving and loading contacts.
